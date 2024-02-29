@@ -1,4 +1,5 @@
-### <samp> Hi there 👋
+### <samp> Hi there 👋. I'm Eniola (he/him). I'm a Frontend Engineer and User Interface Designer from Nigeria 🇳🇬.<br><br>
+
 
 <!--
 **eniola2345/eniola2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
