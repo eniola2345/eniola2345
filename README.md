@@ -1,4 +1,5 @@
 ### <samp> Hi there 👋. I'm Eniola (he/him). I'm a Frontend Engineer and User Interface Designer from Nigeria 🇳🇬.<br><br>
+Connect with me on <a href="">Twitter</a>,<a href="">LinkedIn</a> or <a href="mailto: eniolaabdulbasit84@gmail.com">Send Me An Email</a>.
 
 
 <!--
