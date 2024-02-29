@@ -1,6 +1,4 @@
-### <samp> Hi there 👋. I'm Eniola (he/him). I'm a Frontend Engineer and User Interface Designer from Nigeria 🇳🇬. Connect with me on <a href="">Twitter</a>,<a href="">LinkedIn</a> or <a href="mailto: eniolaabdulbasit84@gmail.com">Send Me An Email</a>.
-
-P.S I love <a href="">Golang</a> and <a href="">Typescript</a> </samp>
+### <samp> Hi there 👋. I'm Eniola (he/him). I'm a Frontend Engineer and User Interface Designer from Nigeria 🇳🇬. Connect with me on <a href="">Twitter</a>,<a href="">LinkedIn</a> or <a href="mailto: eniolaabdulbasit84@gmail.com">Send Me An Email</a>. P.S I love <a href="">Golang</a> and <a href="">Typescript</a> </samp>
 
 <!--
 **eniola2345/eniola2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
