@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+</p>
+
 ### <samp> Hi there 👋. I'm Eniola. I'm a junior Frontend Engineer and User Interface Designer from Nigeria 🇳🇬. Connect with me on <a href="https://x.com/eniolagod?t=hpJeao1ommw_6-zuPE-2RA&s=09">Twitter</a>,<a href="www.linkedin.com/in/eniolagod">LinkedIn</a> or <a href="mailto: eniolaabdulbasit84@gmail.com">Send Me An Email</a>.<br/> P.S I love <a href="https://go.dev/">Golang</a> and <a href="https://www.typescriptlang.org/">Typescript</a>. </samp>
 
 <!--
